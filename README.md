@@ -14,10 +14,11 @@ Daemon thread will keep running in the background to count the time the user is 
 ## Specifications to run the program
 1. Python Version Used: Python 3.9.12 (Install Python from: https://www.python.org/downloads/)   
 2. Clone the repo and go to the location where the file is stored 
-3. Run using python3 Deamon.py (Deamon process will start running in the background)
+3. Run using python3 DaemonThread.py (Deamon process will start running in the background)
 
 ## Exit Condition:
-To stop the main thread Type Yes/No in the console. Daemon will also exit along with the main thread
+To stop the main thread Type Yes/No in the console. 
+Daemon will also exit along with the main thread
 
 
 
